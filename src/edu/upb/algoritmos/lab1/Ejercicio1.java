@@ -2,7 +2,7 @@ package edu.upb.algoritmos.lab1;
 
 import java.util.Scanner;
 
-public class Main {
+public class Ejercicio1 {
 
     public static void main(String[] args) {
     //We import Scanner library so that we can receive keyboard input
